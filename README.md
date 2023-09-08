@@ -6,7 +6,7 @@
   
   📫 Reach me on instagram **@wrosty**
 
-  🤗 I founded and **Fanix**
+  🤗 I founded  **Fanix**
   
   <h3 align="center">Connect with me:</h3>
   <p align="center">
