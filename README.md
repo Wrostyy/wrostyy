@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Wro$ty anybody saying BABA</h1>
+    <h1>My name is Wro$ty but everybody saying BABA</h1>
   
   
   🔭 Currently working on Discord (https://discord.gg/fanix)
