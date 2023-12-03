@@ -11,7 +11,7 @@
   <h3 align="center">Connect with me:</h3>
   <p align="center">
   <a href="https://instagram.com/wrosty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozgurmustafad" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@wrostyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xd. lips" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@efetq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xd. lips" height="30" width="40" /></a>
   <a href="https://discord.com/users/681082834714099722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/271603794645614593" height="30" width="40" /></a>
   </p>
   
