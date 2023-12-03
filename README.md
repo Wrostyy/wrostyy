@@ -1,10 +1,10 @@
 <div align="center">
-    <h1>My name is Wro$ty but everybody saying BABA</h1>
+    <h1>My virtual name is Wro$ty but everybody saying Efe</h1>
   
   
-  🔭 Currently working on Discord (https://discord.gg/fanix)
+  🔭 Currently working on Discord (https://discord.gg/XQdBBxvuNx)
   
-  📫 Reach me on instagram **@wrosty**
+  📫 Reach me on instagram **@efetq**
 
   🤗 I founded  **Fanix**
   
