@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>My virtual name is Wro$ty but everybody saying Efe</h1>
+    <h1>My virtual name is Wro$ty but everybody calls me Efe</h1>
   
   
   🔭 Currently working on Discord (https://discord.gg/XQdBBxvuNx)
