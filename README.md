@@ -4,7 +4,7 @@
   
   🔭 Currently working on Discord (https://discord.gg/XQdBBxvuNx)
   
-  📫 Reach me on instagram **@efetq**
+
 
   🤗 I founded  **Fanix**
   
